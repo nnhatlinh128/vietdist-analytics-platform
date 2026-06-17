@@ -1,4 +1,4 @@
-# 📊 VietDist Analytics Platform | End-to-End Sales Data Warehouse using Python & PostgreSQL
+# 📊 Sales Distribution Data Warehouse | End-to-End Data Warehouse using Python & PostgreSQL
 
 **Author:** Nguyễn Nhật Linh
 
