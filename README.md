@@ -1,6 +1,7 @@
 # 📊 VietDist Analytics Platform | End-to-End Sales Data Warehouse using Python & PostgreSQL
 
 **Author:** Nguyễn Nhật Linh
+
 **Tools Used:** Python, PostgreSQL, SQL, Pandas, DBeaver
 
 ---
