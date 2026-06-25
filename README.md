@@ -2,6 +2,8 @@
 
 **Author:** Nguyễn Nhật Linh
 
+**Date:** 2026-06-11
+
 **Tools:** Python, PostgreSQL, SQL, Pandas, DBeaver
 
 ---
@@ -17,7 +19,6 @@
 7. [Gold Layer – Star Schema & Data Mart](#-gold-layer--star-schema--data-mart)
 8. [Data Quality Validation](#-data-quality-validation)
 9. [Business Impact](#-business-impact)
-10. [Skills Demonstrated](#️-skills-demonstrated)
 
 ---
 
@@ -298,17 +299,3 @@ The solution enables stakeholders to:
 
 ✔ Created a scalable analytical layer for business reporting
 
----
-
-# 🛠️ Skills Demonstrated
-
-* Python ETL Development
-* PostgreSQL
-* SQL
-* Data Warehousing
-* Data Modeling
-* Star Schema Design
-* Kimball Methodology
-* Slowly Changing Dimension (SCD Type 2)
-* Data Quality Testing
-* Analytical Data Mart Design
