@@ -1,4 +1,4 @@
-# 📊 Sales Distribution Data Warehouse | End-to-End Data Warehouse using Python & PostgreSQL
+# 📊 Sales Performance Data Warehouse For FMCG Distribution | End-to-End Data Warehouse using Python & PostgreSQL
 
 **Author:** Nguyễn Nhật Linh
 
