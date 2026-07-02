@@ -1,4 +1,4 @@
-# 📊 Sales Performance Data Warehouse for FMCG Distribution | Python, PostgreSQL, SQL
+# 📊 ETL Pipeline & Sales Data Warehouse for FMCG Distribution | Python, PostgreSQL, SQL
 
 End-to-end Data Warehouse project that transforms raw operational data from a FMCG distribution business into analytics-ready data marts using **Python, PostgreSQL, SQL**, and the **Bronze–Silver–Gold architecture**.
 
